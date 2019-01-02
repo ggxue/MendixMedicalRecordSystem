@@ -1,0 +1,10 @@
+Buildfile: C:\Users\Alienware\Desktop\RDT assignemnt\derek_ICA_Project-main\deployment\build_core.xml
+
+deploy:
+    [unzip] Expanding: C:\Program Files\Mendix\7.4.0\modeler\deployment.mxz into C:\Users\Alienware\Desktop\RDT assignemnt\derek_ICA_Project-main\deployment
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+
+
+
